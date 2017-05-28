@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#b71c1c</color>
+    <color name="colorPrimaryDark">#424242</color>
+    <color name="colorAccent">#263238</color>
+    <color name="transparent_dark">#60000000</color>
+
+    <color name="colorLightBlue">#00bcd4</color>
+    <color name="colorLightBlueDark">#0097a7</color>
+    <color name="colorAccentForLightBlue">#6889ff</color>
+
+    <color name="colorGreen">#259b24</color>
+    <color name="colorGreenDark">#0a7e07</color>
+    <color name="colorAccentForGreen">#6889ff</color>
+
+    <color name="colorOrange">#FF9800</color>
+    <color name="colorOrangeDark">#F57C00</color>
+    <color name="colorAccentForOrange">#607D8B</color>
+
+    <color name="colorBlue">#455ede</color>
+    <color name="colorBlueDark">#455ede</color>
+    <color name="colorAccentForBlue">#E040FB</color>
+
+    <color name="colorRed">#ff5722</color>
+    <color name="colorRedDark">#e64a19</color>
+    <color name="colorAccentForRed">#ffff00</color>
+
+    <color name="colorLime">#cddc39</color>
+    <color name="colorLimeDark">#afb42b</color>
+    <color name="colorAccentForLime">#009688</color>
+
+    <color name="colorPurple">#673ab7</color>
+    <color name="colorPurpleDark">#512da8</color>
+    <color name="colorAccentForPurple">#ffd740</color>
+
+    <color name="colorTeal">#009688</color>
+    <color name="colorTealDark">#00796b</color>
+    <color name="colorAccentForTeal">#6889ff</color>
+</resources>

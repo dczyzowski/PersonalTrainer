@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjekty\\PersonalTrainer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Damian\\.android\\build-cache\\24701b75ba536d089b1748d44426e4e71f69ef2c\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjekty\\PersonalTrainer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Damian\\.android\\build-cache\\24701b75ba536d089b1748d44426e4e71f69ef2c\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjekty\\PersonalTrainer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Damian\\.android\\build-cache\\24701b75ba536d089b1748d44426e4e71f69ef2c\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjekty\\PersonalTrainer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\Damian\\.android\\build-cache\\8f4a9626c5abfea4b340a440a4acb2903b593e81\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjekty\\PersonalTrainer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Damian\\.android\\build-cache\\24701b75ba536d089b1748d44426e4e71f69ef2c\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjekty\\PersonalTrainer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Damian\\.android\\build-cache\\24701b75ba536d089b1748d44426e4e71f69ef2c\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjekty\\PersonalTrainer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Damian\\.android\\build-cache\\24701b75ba536d089b1748d44426e4e71f69ef2c\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjekty\\PersonalTrainer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Damian\\.android\\build-cache\\24701b75ba536d089b1748d44426e4e71f69ef2c\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjekty\\PersonalTrainer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\Damian\\.android\\build-cache\\8f4a9626c5abfea4b340a440a4acb2903b593e81\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjekty\\PersonalTrainer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Damian\\.android\\build-cache\\8f4a9626c5abfea4b340a440a4acb2903b593e81\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjekty\\PersonalTrainer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Damian\\.android\\build-cache\\8f4a9626c5abfea4b340a440a4acb2903b593e81\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjekty\\PersonalTrainer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Damian\\.android\\build-cache\\24701b75ba536d089b1748d44426e4e71f69ef2c\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjekty\\PersonalTrainer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Damian\\.android\\build-cache\\24701b75ba536d089b1748d44426e4e71f69ef2c\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjekty\\PersonalTrainer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Damian\\.android\\build-cache\\24701b75ba536d089b1748d44426e4e71f69ef2c\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    }
+]
